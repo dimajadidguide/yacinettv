@@ -1,0 +1,31 @@
+{
+  "Guide App" : {
+    "ads_mode" : "yandex",
+    "interstitial_interval": 1,
+    "native_interval": 2,
+
+    "admost_app_id" : "cf834bb4-663e-422d-97c8-96f26d7a8f8a",
+    "admost_banner_id" : "banner",
+    "admost_native_id" : "native",
+    "admost_interstitial_id" : "interstitial",
+
+    "tapdaq_app_id" : "60c3349f08fe6c2d735d663a",
+    "tapdaq_client_key" : "fbce30ca-5e3a-44c6-9bc1-7fa49668c4a3",
+    "tapdaq_banner_id" : " Banner",
+    "tapdaq_native_id" : "Native",
+    "tapdaq_interstitial_id" : "Inter",
+
+    "yandex_app_id" : "",
+    "yandex_banner_id" : "R-M-DEMO-320x50",
+    "yandex_native_id" : "R-M-DEMO-300x250",
+    "yandex_interstitial_id" : "R-M-DEMO-480x320",
+
+    "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
+    "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
+    "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
+
+    "content":[
+
+    ]
+  }
+}
