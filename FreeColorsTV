@@ -1,6 +1,6 @@
 {
   "Guide App" : {
-    "ads_mode" : "yandex",
+    "ads_mode" : "tapdaq",
     "interstitial_interval": 1,
     "native_interval": 2,
 
@@ -9,11 +9,11 @@
     "admost_native_id" : "native",
     "admost_interstitial_id" : "interstitial",
 
-    "tapdaq_app_id" : "60c3349f08fe6c2d735d663a",
-    "tapdaq_client_key" : "fbce30ca-5e3a-44c6-9bc1-7fa49668c4a3",
-    "tapdaq_banner_id" : " Banner",
-    "tapdaq_native_id" : "Native",
-    "tapdaq_interstitial_id" : "Inter",
+    "tapdaq_app_id" : "613b532986c31c4e07c10c11",
+    "tapdaq_client_key" : "8b44c86d-4840-4d1b-be92-5897aabccdbb",
+    "tapdaq_banner_id" : " default",
+    "tapdaq_native_id" : "default",
+    "tapdaq_interstitial_id" : "default",
 
     "yandex_app_id" : "",
     "yandex_banner_id" : "R-M-DEMO-320x50",
