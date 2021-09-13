@@ -1,13 +1,13 @@
 {
   "Guide App" : {
-    "ads_mode" : "tapdaq",
+    "ads_mode" : "admost",
     "interstitial_interval": 1,
     "native_interval": 2,
 
-    "admost_app_id" : "cf834bb4-663e-422d-97c8-96f26d7a8f8a",
-    "admost_banner_id" : "banner",
+    "admost_app_id" : "f8916625-5474-435f-a76a-1a4d9a420bd6",
+    "admost_banner_id" : "f32d2c5e-6e7a-44bb-b3e9-595722db2ff8",
     "admost_native_id" : "native",
-    "admost_interstitial_id" : "interstitial",
+    "admost_interstitial_id" : "241559b7-4516-4663-844b-814e02a35ae2",
 
     "tapdaq_app_id" : "613b532986c31c4e07c10c11",
     "tapdaq_client_key" : "8b44c86d-4840-4d1b-be92-5897aabccdbb",
