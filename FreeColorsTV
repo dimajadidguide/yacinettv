@@ -1,7 +1,7 @@
 {
   "Guide App" : {
     "ads_mode" : "admost",
-    "interstitial_interval": 1,
+    "interstitial_interval": 2,
     "native_interval": 2,
 
     "admost_app_id" : "f8916625-5474-435f-a76a-1a4d9a420bd6",
