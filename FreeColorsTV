@@ -1,6 +1,6 @@
 {
   "Guide App" : {
-    "ads_mode" : "tapdaq",
+    "ads_mode" : "admost",
     "interstitial_interval": 1,
     "native_interval": 2,
 
