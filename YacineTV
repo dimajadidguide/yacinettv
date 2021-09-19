@@ -1,0 +1,65 @@
+{
+   "ADS":{
+      "NetworkAds":"admost",
+      "Admost-App-ID":"4aa2430a-0b66-4e9c-8555-a487443085ac",
+      "BannerAdmost":"25817f0d-c37b-4823-989b-413b4d48be78",
+      "InterstitialAdmost":"7aec769a-0db4-48e1-a5ef-8147e295493f",
+      "Native_Admost":"3e3882a7-72ea-47d2-8887-b1fcf65dfa14",
+
+      "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
+	"InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
+      "Native_Admob":"ca-app-pub-3940256099942544/2247696110",
+
+      "BannerFacebook":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "InterstitialFacebook":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Native_Facebook":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+      "Tapdaq-App-ID":"611facc908fe6c2d735d6a6b",
+      "Tapdaq-Client-KEY":"8b44c86d-4840-4d1b-be92-5897aabccdbb",
+      
+     
+      "LinkCpa":"",
+      "ImageUrl":"",
+      "LinkCpa_inter":"",
+      "ImageUrl_inter":"",
+      
+      "Content":[
+         {
+            "title":"Guid Tip 1",
+            "image":"https://i.imgur.com/NcCx8pX.png",
+            "short_description":"Guid Tip Description 1",
+            "description":"\n<p>Combat is not that hard if you are using BlueStacks</p>\n<p>Start by clicking on the &quot;newbie rewards&quot; button. Free Fire awards players free items based on the number of days they log in. Your first reward is a free t-shirt. 24 hours later, you can get a free armor crate too. Check this screen often to collect your rewards. Most of them are cosmetic items and give no advantage to you in terms of gameplay, but you get to look &quot;cooler&quot;.</p>\n"
+         },
+         {
+            "title":"Guid Tip 2",
+            "image":"https://i.imgur.com/LYnhWaz.png",
+            "short_description":"Guid Tip Description 2",
+            "description":"\n<p>Hunting for Loot, Checking The &quot;Safe Zone&quot;</p>\n<p>Test 5 Guid All Descriptions and Important Notes.</p>\n<p>You will land on the island with no resource other than your fists. To be honest, you can’t do much with those.</p>\n<p>So, your first goal should be to find loot (weapons & armor) as quickly as possible and arm yourself.</p>\n<p>Check the nearby buildings: Loot can be found inside the buildings. At this stage, you will notice the &quot;countdown&quot; on top of your interface.</p>\n"
+         },
+         {
+            "title":"Guid Tip 3",
+            "image":"https://i.imgur.com/NcCx8pX.png",
+            "short_description":"Guid Tip Description 3",
+            "description":"<p>Play Garena Free Fire on PC</p>\n<p>So, what is this &quot;safe zone&quot;? It is a big and wide white circle that can appear anywhere on the map. Inside of this circle is &quot;safe&quot;.</p>\n<p>Outside is not – if you stay outside of the white circle once it has appeared, you will keep losing your health and die in a couple minutes. </p>\n<p> So, you should stay inside the white-circle (safe zone) at all times.</p>\np>Well, not always, since you can get in and out as a tactic, but this is an advanced strategy which we will talk about in a different guide.</p>\n<p>As of now, know that you must stay inside the circle after it appears.</p>\n"
+         },
+         {
+            "title":"Guid Tip 4",
+            "image":"https://i.imgur.com/LYnhWaz.png",
+            "short_description":"Guid Tip Description 4",
+            "description":"\n<p>Combat Mechanics</p>\n<p> Click on the loot buttons to take and use them. If you have no weapons & armor, you will automatically equip the first ones you find.  </p>\n<p> You can carry a primary weapon, a secondary weapon, and a sidearm at the same time and switch between them anytime you want. </p>\n<p> The extra loot you will find will be placed in your inventory, which you can open by clicking the bag icon at the middle-left side of your screen. </p>\n<p> For example, if you want to equip a different weapon you must open your inventory and click on that weapon. </p>\n"
+         },
+         {
+            "title":"Guid Tip 5",
+            "image":"https://i.imgur.com/NcCx8pX.png",
+            "short_description":"Guid Tip Description 5",
+            "description":"\n<p>Hunting for Loot, Checking The &quot;Safe Zone&quot;</p>\n<p>Test 5 Guid All Descriptions and Important Notes.</p>\n<p>You will land on the island with no resource other than your fists. To be honest, you can’t do much with those.</p>\n<p>So, your first goal should be to find loot (weapons & armor) as quickly as possible and arm yourself.</p>\n<p>Check the nearby buildings: Loot can be found inside the buildings. At this stage, you will notice the &quot;countdown&quot; on top of your interface.</p>\n"
+         },
+         {
+            "title":"Guid Tip 6",
+            "image":"https://i.imgur.com/LYnhWaz.png",
+            "short_description":"Guid Tip Description 6",
+            "description":"\n <p>Play Garena Free Fire on PC</p>\n <p>So, what is this &quot;safe zone&quot;? It is a big and wide white circle that can appear anywhere on the map. Inside of this circle is &quot;safe&quot;.</p>\n<p>Outside is not – if you stay outside of the white circle once it has appeared, you will keep losing your health and die in a couple minutes. </p>\n<p> So, you should stay inside the white-circle (safe zone) at all times.</p>\n<p>Well, not always, since you can get in and out as a tactic, but this is an advanced strategy which we will talk about in a different guide.</p>\n"
+         }
+      ]
+   }
+}
